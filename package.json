@@ -1,0 +1,1 @@
+{"name":"imperial","version":"1.0.0","description":"A sample project","main":"index.js","scripts":{"start":"node index.js"},"dependencies":{"express":"^4.17.1","cors":"^2.8.5","stripe":"^8.0.0","firebase-admin":"^9.4.2"}}
